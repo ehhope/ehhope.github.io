@@ -223,7 +223,7 @@
       <pubDate>Sat, 15 Sep 2018 22:41:26 -0700</pubDate>
       
       <guid>https://ehhope.github.io/post/overfitting/</guid>
-      <description>
+      <description>&lt;p&gt;A blog post on &lt;strong&gt;Overfitting&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Blog Post- Alex Hope&lt;/p&gt;
 
@@ -254,8 +254,7 @@ The far right image is an example of overfitting where the function has been for
 
 &lt;p&gt;Why does this topic even matter?&lt;/p&gt;
 
-&lt;p&gt;This topic matters a ton! In the current data-driven world we inhabit, humans are increasingly relying on data to aid their decision-making across both their personal and professional lives. Making an informed decision about anything hinges on the quality of the information being received, and that starts with building effective, properly fitted models that make predictions about trends accurately. From marketing to production lines to brain-imaging to product design and consumption, analytics play a role across many facets of society. My hope is that you now understand what the term overfitting refers to in statistics, the consequences of overfitting statistical models and that you are excited to learn about it further!&lt;/p&gt;
-</description>
+&lt;p&gt;This topic matters a ton! In the current data-driven world we inhabit, humans are increasingly relying on data to aid their decision-making across both their personal and professional lives. Making an informed decision about anything hinges on the quality of the information being received, and that starts with building effective, properly fitted models that make predictions about trends accurately. From marketing to production lines to brain-imaging to product design and consumption, analytics play a role across many facets of society. My hope is that you now understand what the term overfitting refers to in statistics, the consequences of overfitting statistical models and that you are excited to learn about it further!&lt;/p&gt;</description>
     </item>
     
     <item>
