@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervised learning on Alex J. Hope</title>
+    <link>https://ehhope.github.io/tags/supervised-learning/</link>
+    <description>Recent content in supervised learning on Alex J. Hope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 23 Dec 2018 01:26:14 -0700</lastBuildDate>
+    
+	<atom:link href="https://ehhope.github.io/tags/supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NBA Shot Classifier</title>
+      <link>https://ehhope.github.io/project/nba-shot-decision-tree/</link>
+      <pubDate>Sun, 23 Dec 2018 01:26:14 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/project/nba-shot-decision-tree/</guid>
+      <description>Decision Tree Analysis of Makes &amp;amp; Misses in the NBA A case study: Lebron James This project focuses on the 2014-2015 NBA season with a dataset containing characteristics of every shot (shot distance, defender, shot clock, etc.) taken by every player in the NBA. The approach used a decision tree classifier to predict whether a shot was made or missed based on shot features for each shot taken by the player.</description>
+    </item>
+    
+  </channel>
+</rss>
