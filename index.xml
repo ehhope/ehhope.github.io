@@ -165,14 +165,14 @@
       <guid>https://ehhope.github.io/post/mds-block-1/</guid>
       <description>&lt;p&gt;My experience and thoughts on block 1 of MDS at UBC. The courses were: DSCI 511, DSCI 521, DSCI 542, and DSCI 551.&lt;/p&gt;
 
-&lt;p&gt;Hey! My name is Alex Hope, if you&amp;rsquo;ve made it this far I&amp;rsquo;ll spare you the full introduction, however, this post is the first of an ongoing series I&amp;rsquo;ll be doing as I progress through my Master&amp;rsquo;s degree in Data Science (MDS) at the University of British Columbia (UBC). There&amp;rsquo;s a bunch of reasons why I decided to do this, but a major one is to track my own growth as I transition into this field from healthcare research so I can look back on how far I&amp;rsquo;ve come and maybe recall concepts from the coursework of MDS in the process. I&amp;rsquo;m excited to dive into this new degree and learn more about the analytical and computational skills I knew were important but never had the time to cultivate while working. In addition, I wanted to use this blog as a resource for future students in MDS who may be unsure about what the degree entails like I was, and would like a perspective from someone who isn&amp;rsquo;t part of the program but has gone through the degree. So, you&amp;rsquo;ll hear my thoughts and advice about courses and instructors as well.&lt;/p&gt;
+&lt;p&gt;Hey! My name is Alex Hope, if you&amp;rsquo;ve made it this far I&amp;rsquo;ll spare you the full introduction, however, this post is the first of an ongoing series I&amp;rsquo;ll be doing as I progress through my Master&amp;rsquo;s degree in Data Science (MDS) at the University of British Columbia (UBC). There&amp;rsquo;s a bunch of reasons why I decided to write this blog, but a major one was to track my own growth as I transition into this field from healthcare research so I can look back on how far I&amp;rsquo;ve come and recall concepts from the coursework of MDS in the process. I&amp;rsquo;m excited to dive into this new degree and learn more about the analytical and computational skills I knew were important but never had the time to cultivate while working. In addition, I wanted to use this blog as a resource for future students in MDS who may be unsure about what to expect with the experience of MDS like I was. This blog is a perspective from someone who isn&amp;rsquo;t part of the program but is going through the degree. So, you&amp;rsquo;ll hear my thoughts and advice about courses and instructors and I will do my best to convey my feelings about each class as honestly as I can. First a bit of background about what I did prior to getting here.&lt;/p&gt;
 
 &lt;p&gt;The resources I used to prepare for this degree:
   * Work experience writing code to do basic analysis in Python and building basic sites with HTML/CSS
   * Jose Portilla&amp;rsquo;s: Python for Data Science, and Python Programming Bootcamp
   * ProjectEuler.com
   * Probability and Statistics materials from a one day trial of a bootcamp called &amp;ldquo;Metis&amp;rdquo;
-  * DataCamp: 4 courses on python, and basic statistics&lt;/p&gt;
+  * DataCamp: 4 courses (python and basic statistics)&lt;/p&gt;
 
 &lt;h4 id=&#34;block-1&#34;&gt;&lt;strong&gt;Block 1&lt;/strong&gt;&lt;/h4&gt;
 
@@ -215,6 +215,47 @@
 &lt;p&gt;I thought Mike Gelbart (professor) did a pretty good job educating us on how distributions work (Bernoulli, Gaussian, Multinomial), and showing us how R can help derive different measures of distributions using it&amp;rsquo;s functionality. Similar to all of the professors, the notes were in Jupyter notebooks and I found playing around with the interactive notebooks for this class to be helpful for learning about distributions. Mike is very good at explaining concepts simply, and presenting it with multiple perspectives which I appreciated since this class was by far the least intuitive to me. I left with a strong grasp of parameters for distributions, visualizing conditional and joint distributions, and how differences in variance and entropy can effect the shape of distributions. I had to work the hardest in this class but like anything, you get what you invest into these things.&lt;/p&gt;
 
 &lt;p&gt;To conclude, this was a great first block and the organization between courses in how they integrate is unparalleled. It&amp;rsquo;s so nice to have people curate material in a way that&amp;rsquo;s intelligent and you get the impression this has been well thought out since the program&amp;rsquo;s first inception. The effort these MDS faculty have put into designing the program does offload some of the burden of having to &amp;lsquo;know all the prerequisites&amp;rsquo; before you start your degree despite MDS being a fast-paced learning environment, make no mistake. In my opinion, students who feel they aren&amp;rsquo;t prepared will most likely be just fine for this intro block. Of course, the more you know going in the more free time you have to focus on side projects and dig deeper into material you know the basics of already so there is that. I can tell there&amp;rsquo;s a lot of talented, driven people to work with this coming year, which is exciting. One last point that I think is important is the program encourages us to learn as much as we can by specifically &lt;strong&gt;NOT&lt;/strong&gt; breeding a sense of competition amongst peers. I think this is great as I have already learned and helped others so much, and as this program picks up I suspect we will lean on each other more! Can&amp;rsquo;t wait for block 2.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overfitting</title>
+      <link>https://ehhope.github.io/post/overfitting/</link>
+      <pubDate>Sat, 15 Sep 2018 22:41:26 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/post/overfitting/</guid>
+      <description>
+
+&lt;p&gt;Blog Post- Alex Hope&lt;/p&gt;
+
+&lt;h2 id=&#34;overfitting&#34;&gt;&lt;strong&gt;Overfitting&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;What is overfitting exactly? Why does it matter?&lt;/p&gt;
+
+&lt;p&gt;The truth is the word has a few definitions, and depending on who you ask and the context in which the word is used you may receive a wildly different answer. When I talk about overfitting I am not referring to when someone has outgrown their old pants or when a pipe is too large for it&amp;rsquo;s receiver. I&amp;rsquo;m talking about it&amp;rsquo;s use in statistics. Here, overfitting is a common pitfall in data analysis where a particular model explains observations in a dataset too precisely and confidently.&lt;/p&gt;
+
+&lt;p&gt;Wait though, wouldn&amp;rsquo;t explaining data accurately and with confidence be a good thing?&lt;/p&gt;
+
+&lt;p&gt;Well yes, accurately detailing trends in a dataset is considered a good thing but if that explanation isn&amp;rsquo;t useful when generalizing to other similar datasets with the same problem than the outcome isn&amp;rsquo;t positive at all. Just because a model perfectly explains the information in a given dataset does not mean it&amp;rsquo;s suitable to explain other observations it hasn&amp;rsquo;t encountered yet and this is fundamental to why we want to build a model in the first place. One sign that your model may be overfitted to your data is when there is very low variance. In fact, if a model has been trained to predict patterns of data in an original &amp;lsquo;training dataset&amp;rsquo; too strongly, it will struggle with making close approximations about patterns in new datasets that likely vary in all sorts of small or large ways that may or may not be interesting (natural variation vs error).&lt;/p&gt;
+
+&lt;p&gt;Of course, we want to build a model that accurately accounts for both present and future observations, however, if the model is overfitted to the present data than it will struggle with predicting new information that do not fit cleanly into the distribution of the original dataset it was trained on. This is a common issue and there are many ways to combat this problem, however, that goes beyond the scope of this topic.&lt;/p&gt;
+
+&lt;p&gt;The fact of the matter is data is very messy, and will not arrive in identically similar ways because measuring phenomena in the world is a complex and difficult endeavor. A delicate balance always needs to be struck between highlighting interesting variation in a dataset and ignoring aspects that are simply noise.
+So, that was a lot of words, let&amp;rsquo;s break it down visually. What are examples of different kinds of fittings?
+Below you will find examples of a) under-fitting, b) appropriate fitting, and c) over-fitting that outline how different quadratic functions of models can be fitted to data. Bear in mind, not all models are made equal!&lt;/p&gt;
+
+&lt;p&gt;Here are examples of different &amp;ldquo;fits&amp;rdquo; on the same data:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;fittings.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The images above represent three examples of different functions that capture trends in a set of observations (i.e &amp;lsquo;X&amp;rsquo; and &amp;lsquo;O&amp;rsquo;). In each of the above pictures the aim of the model is to best capture the position of &amp;lsquo;O&amp;rsquo; datapoints as they are distributed across the x- and y-axis. However, some capture the data better than others.
+The far right image is an example of overfitting where the function has been forced to fit all of the &amp;lsquo;O&amp;rsquo; observations and exclude all of the &amp;lsquo;X&amp;rsquo; observations. As you can see it captures it perfectly! Butf how do you think it would hold up if a new dataset was presented on the same 2-plane axis? Probably not very well since observations tend to move at least slightly within a distribution and if any of these data points were to move in the axes, the model would hold much less predictive power. This is what is meant by picking a suitable model over a perfect model. We are interested in generalizing our predictions to other phenomena, not perfectly modeling observations that already exist.&lt;/p&gt;
+
+&lt;p&gt;Conversely, on the left image you have under-fitting where the model hasn&amp;rsquo;t been trained adequately to grasp patterns in a dataset that are clearly meaningful signals. In those cases the predictive power of the model will be impaired as well, and so the delicate balance between both extremes leads to an appropriate fit shown in the middle. Here, you can see that the approriate fit does not capture the data perfectly, however, it does do an excellent job at explaining the general direction of the trend while leaving enough room for observations to potentially fall on either side of the quadratic function. Essentially, this model predicts the trend well but also leaves room for error within the distribution where outliers and other variables may moderate the datapoints being examined.&lt;/p&gt;
+
+&lt;p&gt;Why does this topic even matter?&lt;/p&gt;
+
+&lt;p&gt;This topic matters a ton! In the current data-driven world we inhabit, humans are increasingly relying on data to aid their decision-making across both their personal and professional lives. Making an informed decision about anything hinges on the quality of the information being received, and that starts with building effective, properly fitted models that make predictions about trends accurately. From marketing to production lines to brain-imaging to product design and consumption, analytics play a role across many facets of society. My hope is that you now understand what the term overfitting refers to in statistics, the consequences of overfitting statistical models and that you are excited to learn about it further!&lt;/p&gt;
+</description>
     </item>
     
     <item>
