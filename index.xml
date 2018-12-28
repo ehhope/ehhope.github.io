@@ -155,5 +155,21 @@
 </description>
     </item>
     
+    <item>
+      <title>The Neurophysiology of Motor Manipulation</title>
+      <link>https://ehhope.github.io/publication/neurophysiology/</link>
+      <pubDate>Tue, 01 Apr 2014 18:51:18 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/publication/neurophysiology/</guid>
+      <description>&lt;p&gt;The strong relationship between motor and cognitive development suggests that the limited motor experience of children with physical disabilities can impact their cognitive and perceptual development. The assessment of their cognitive skills is also compromised due to limited verbal communication and motor gestures. Robots have been used to give children with disabilities an opportunity to independently manipulate objects and to reveal their cognitive skills when they use the robots. Little is known about the neural correlates that subtend robotic augmentative manipulation and the ways in which using a robot to manipulate objects may change the task&amp;rsquo;s cognitive and perceptual demands. Several technical considerations pose a challenge to such studies.&lt;/p&gt;
+
+&lt;p&gt;OBJECTIVE: This paper presents a methodology for the technical implementation of neurophysiological exploration of robot-augmented manipulation and presents an evaluation of the technical feasibility of performing a comparison between augmented manipulation and direct manipulation as response modalities in a cognitive task.&lt;/p&gt;
+
+&lt;p&gt;METHODS: A costume made interface was designed that would allow the interfacing of the EGI NetStation Electroencephalographic (EEG) signal acquisition system, the E-Prime stimulus presentation system, and a 3-Dimensional task performed with either a robot or through typical direct manipulation. The technical feasibility and the stability of the designed technical implementation was tested with 10 adult participants.&lt;/p&gt;
+
+&lt;p&gt;RESULTS: Initial analysis revealed specific robot control interface related artifacts. Further testing confirmed the source of artifact. Independent Component Analysis (ICA) was successfully used to separate this artifact component. Advantages, disadvantages, and results obtained from this method for technical implementation are presented. Implications for the study of neural correlates of augmentative manipulation are discussed.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
