@@ -139,15 +139,6 @@
     </item>
     
     <item>
-      <title>BRIEF Intervention</title>
-      <link>https://ehhope.github.io/project/brief-intervention/</link>
-      <pubDate>Sun, 23 Dec 2018 03:15:12 -0700</pubDate>
-      
-      <guid>https://ehhope.github.io/project/brief-intervention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NBA Shot Classifier</title>
       <link>https://ehhope.github.io/project/nba-shot-decision-tree/</link>
       <pubDate>Sun, 23 Dec 2018 01:26:14 -0700</pubDate>
@@ -167,6 +158,15 @@
 
 &lt;p&gt;For easily reproducing and generating data regarding NBA players, this project uses &lt;code&gt;make&lt;/code&gt; to run multiple scripts in terminal as well. If interested, you can find the repository on my github account &lt;a href=&#34;https://github.com/ehhope/LBJ-for-Tree&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; with instructions in the README file for using these tools.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>BRIEF Intervention</title>
+      <link>https://ehhope.github.io/project/brief-intervention/</link>
+      <pubDate>Tue, 23 Oct 2018 03:15:12 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/project/brief-intervention/</guid>
+      <description></description>
     </item>
     
     <item>
