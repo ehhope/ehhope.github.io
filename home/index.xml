@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://ehhope.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://ehhope.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,16 +24,16 @@
     <item>
       <title></title>
       <link>https://ehhope.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/about/</guid>
-      <description>About Alex Hope received his B.A. in psychology &amp;amp; philosophy at the University of Alberta, Canada prior to pursuing a career in psychological research &amp;amp; teaching in New York. This work led to a deeper appreciation for statistics in understanding the brain (EEG, fMRI) and body (HRV) interactions in depression and anxiety disorders, as well as the efficacy of treatments for targeting aspects of these pathologies. Seeing the value of statistical approaches and machine learning (ML) helped motivate his decision to pursue a Master&amp;rsquo;s degree in Data Science at the University of British Columbia where he now currently resides.</description>
+      <description>About Alex Hope received his B.A. in psychology &amp;amp; philosophy at the University of Alberta, Canada prior to pursuing a career in psychological research &amp;amp; teaching in New York. Seeing the value of statistical and machine learning approaches within imaging and treatment research for emotional disorders helped motivate his decision to pursue a Master&amp;rsquo;s in Data Science at the University of British Columbia where he currently resides. Alex&amp;rsquo;s interests revolve around data collection designs, pipeline development, statistical and machine learning implementations for problems across business and healthcare industries.</description>
     </item>
     
     <item>
       <title>Academic</title>
       <link>https://ehhope.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Skills</title>
       <link>https://ehhope.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/skills/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Projects</title>
       <link>https://ehhope.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/projects/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Blog</title>
       <link>https://ehhope.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/posts/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Teaching</title>
       <link>https://ehhope.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/teaching/</guid>
       <description>Served as a teaching adjunct in the Department of Psychology at City University of New York (CUNY). Efforts as a lecturer entailed:
@@ -88,7 +88,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://ehhope.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/publications_selected/</guid>
       <description></description>
@@ -97,7 +97,7 @@
     <item>
       <title>Publications</title>
       <link>https://ehhope.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/publications/</guid>
       <description></description>
@@ -106,7 +106,7 @@
     <item>
       <title>Presentations</title>
       <link>https://ehhope.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/talks_selected/</guid>
       <description>Changes in Resting Heart-Rate Variability Across Emotion Regulation Therapy (April, 2017). Anxiety and Depression Association of America (ADAA) Conference. Hilton Union Square, San Francisco, CA. Hope, A.J., Quintero, J.M., Fresco, D.M., &amp;amp; Mennin, D.S.
@@ -117,7 +117,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ehhope.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/talks/</guid>
       <description></description>
@@ -126,7 +126,7 @@
     <item>
       <title>Tags</title>
       <link>https://ehhope.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/tags/</guid>
       <description></description>
@@ -135,7 +135,7 @@
     <item>
       <title>Contact</title>
       <link>https://ehhope.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ehhope.github.io/home/contact/</guid>
       <description></description>
