@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Alex J. Hope</title>
-    <link>https://ehhope.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine Learning on Alex J. Hope</description>
+    <title>Neural Networks on Alex J. Hope</title>
+    <link>https://ehhope.github.io/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on Alex J. Hope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 02 Feb 2019 17:02:05 -0800</lastBuildDate>
     
-	<atom:link href="https://ehhope.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ehhope.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://ehhope.github.io/post/mds-block-4/</guid>
       <description>&lt;p&gt;My experience and thoughts on block 4 of MDS at UBC. The courses were: DSCI 532, DSCI 563, DSCI 572, and DSCI 573.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MDS Block 3</title>
-      <link>https://ehhope.github.io/post/mds-block-3/</link>
-      <pubDate>Tue, 25 Dec 2018 01:53:01 -0700</pubDate>
-      
-      <guid>https://ehhope.github.io/post/mds-block-3/</guid>
-      <description>&lt;p&gt;My experience and thoughts on block 3 of MDS at UBC. The courses were: DSCI 513, DSCI 522, DSCI 561, and DSCI 571.&lt;/p&gt;</description>
     </item>
     
   </channel>
