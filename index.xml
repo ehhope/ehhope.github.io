@@ -24,7 +24,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;###Block 4 Overview&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;This is considered the toughest block of coursework in MDS for a reason. The difficulty of the content and large amount of material you are asked to learn in each course for the month it is covered is asking alot of students. I spent many, many nights late at the library or in my room reading resources, watching videos, and deciphering code in addition to my lab work. The workload definitely translated to burnout I could see on the faces of many students, including myself at times. I wouldn&amp;rsquo;t say these expressions are a bad thing though because it was also a very valuable month. On the one hand I learned a lot about ML, but more then that I realized how deep this field is, in what I learned content-wise and for my own perspective. Standing at the top of the block 4 mountain, I&amp;rsquo;m realizing two camps seem to have emerged that roughly summarize student sentiment about this block.&lt;/p&gt;
 
@@ -36,10 +36,11 @@
 
 &lt;p&gt;Data Science is a really hard field to grasp because it requires a breadth of tools to follow an idea through, but also a depth with those tools to generate the real value. It&amp;rsquo;s not a fault of the program for being unable to condense something very complicated it&amp;rsquo;s just the state of the field, in fact, they did an amazing job across the board. The entire MDS staff was very sensitive to the fact it was a difficult month for students, and made as many accomodations for us as they could. Without their support, this could&amp;rsquo;ve been a much tougher experience so big thank you to them. Ok, without further adue, the coursework.&lt;/p&gt;
 
-&lt;p&gt;###Machine Learning Coursework
-- &lt;em&gt;Unsupervised Learning (DSCI-563, Rodolfo Lourenzutti)&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;machine-learning-coursework&#34;&gt;Machine Learning Coursework&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Unsupervised Learning (DSCI-563, Rodolfo Lourenzutti)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;em&gt;Supervised Learning II (DSCI-572, Mike Gelbart)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;em&gt;Features and Model Selection (DSCI-573, Mark Schmidt)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
