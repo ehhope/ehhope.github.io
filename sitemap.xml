@@ -4,30 +4,6 @@
     
     <url>
     
-      <loc>https://ehhope.github.io/post/mds-block-4/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/post/mds-block-3/</loc>
-      <lastmod>2018-12-25T01:53:01-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/post/mds-block-2/</loc>
-      <lastmod>2018-12-25T01:43:24-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ehhope.github.io/project/nba-shot-decision-tree/</loc>
       <lastmod>2018-12-23T01:26:14-07:00</lastmod>
     </url>
@@ -38,22 +14,6 @@
     
       <loc>https://ehhope.github.io/project/brief-intervention/</loc>
       <lastmod>2018-10-23T03:15:12-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/post/mds-block-1/</loc>
-      <lastmod>2018-10-10T20:06:21-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/post/overfitting/</loc>
-      <lastmod>2018-09-15T22:41:26-07:00</lastmod>
     </url>
     
   
@@ -118,33 +78,6 @@
     
     <url>
     
-      <loc>https://ehhope.github.io/tags/data-science/</loc>
-      <lastmod>2018-12-25T01:43:24-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/docker/</loc>
-      <lastmod>2018-12-25T01:53:01-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/grad-school/</loc>
-      <lastmod>2018-12-25T01:43:24-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ehhope.github.io/tags/lebron-james/</loc>
       <lastmod>2018-12-23T01:26:14-07:00</lastmod>
       <priority>0</priority>
@@ -154,44 +87,8 @@
     
     <url>
     
-      <loc>https://ehhope.github.io/tags/mds/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ehhope.github.io/tags/nba/</loc>
       <lastmod>2018-12-23T01:26:14-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/neural-networks/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/optimization/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -217,53 +114,8 @@
     
     <url>
     
-      <loc>https://ehhope.github.io/tags/regression/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/sql/</loc>
-      <lastmod>2018-12-25T01:53:01-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/script-automation/</loc>
-      <lastmod>2018-12-25T01:53:01-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/shiny/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ehhope.github.io/tags/</loc>
-      <lastmod>2018-12-25T01:43:24-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ehhope.github.io/tags/ubc/</loc>
-      <lastmod>2019-02-02T17:02:05-08:00</lastmod>
+      <lastmod>2018-12-23T01:26:14-07:00</lastmod>
       <priority>0</priority>
     </url>
     
