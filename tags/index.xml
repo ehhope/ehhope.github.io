@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Dec 2018 01:26:14 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Dec 2018 01:43:24 -0700</lastBuildDate>
     
 	<atom:link href="https://ehhope.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://ehhope.github.io/tags/data-science/</link>
+      <pubDate>Tue, 25 Dec 2018 01:43:24 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://ehhope.github.io/tags/docker/</link>
+      <pubDate>Tue, 25 Dec 2018 01:53:01 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grad School</title>
+      <link>https://ehhope.github.io/tags/grad-school/</link>
+      <pubDate>Tue, 25 Dec 2018 01:43:24 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/grad-school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lebron James</title>
@@ -22,11 +49,92 @@
     </item>
     
     <item>
+      <title>MDS</title>
+      <link>https://ehhope.github.io/tags/mds/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/mds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://ehhope.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NBA</title>
       <link>https://ehhope.github.io/tags/nba/</link>
       <pubDate>Sun, 23 Dec 2018 01:26:14 -0700</pubDate>
       
       <guid>https://ehhope.github.io/tags/nba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>https://ehhope.github.io/tags/neural-networks/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://ehhope.github.io/tags/optimization/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://ehhope.github.io/tags/regression/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://ehhope.github.io/tags/sql/</link>
+      <pubDate>Tue, 25 Dec 2018 01:53:01 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Script Automation</title>
+      <link>https://ehhope.github.io/tags/script-automation/</link>
+      <pubDate>Tue, 25 Dec 2018 01:53:01 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/script-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>https://ehhope.github.io/tags/shiny/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBC</title>
+      <link>https://ehhope.github.io/tags/ubc/</link>
+      <pubDate>Sat, 02 Feb 2019 17:02:05 -0800</pubDate>
+      
+      <guid>https://ehhope.github.io/tags/ubc/</guid>
       <description></description>
     </item>
     
