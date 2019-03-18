@@ -48,5 +48,14 @@
       <description>&lt;p&gt;My experience and thoughts on block 1 of MDS at UBC. The courses were: DSCI 511, DSCI 521, DSCI 542, and DSCI 551.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Overfitting</title>
+      <link>https://ehhope.github.io/post/overfitting/</link>
+      <pubDate>Sat, 15 Sep 2018 22:41:26 -0700</pubDate>
+      
+      <guid>https://ehhope.github.io/post/overfitting/</guid>
+      <description>&lt;p&gt;This post is on Overfitting, what it is and why it matters.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
